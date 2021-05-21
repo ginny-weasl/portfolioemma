@@ -1,0 +1,94 @@
+body {
+    text-align: center;
+  font-family:fantasy;
+ background:linear-gradient( #E1BEE7 0%, #90caf9 100%);
+}
+.menu{
+ list-style: none;
+font-family: cursive;
+position: fixed;
+top: 0px;
+right: 30px;
+z-index: 10;
+cursor: pointer;
+background-color: lightpink;
+width: 100%;
+margin-top: 0px;
+}
+.links{
+ float: left;
+color: black;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 9px;
+padding-right: 9px;
+font-family: cursive;
+font-size: 18;
+display: inline;
+
+}
+.links: hover{
+    background-color: red;
+    font-size: 30;
+    font-style: oblique;
+}
+   
+    #name{
+        font-size: 30px;
+        line-height: 1.3;
+        font-family: 'Karantina', cursive;
+        margin-top: 40px;
+    }
+#Apps{
+    width: 100%;
+    height: 800px;
+    background-color: fuchsia;
+}
+
+.line{
+    height: 6px;
+    background-color: crimson;
+    width: 70px;
+    margin: 8px auto;
+}
+#Games{
+    height: 800px;
+    width: 100%;
+    background-color: coral;
+}
+
+img{
+    transition: transform .2s;
+}
+
+img:hover{
+  transform: scale(0.9);
+}
+
+#Chatbot{
+    
+    height: 800px;
+    width: 100%;
+    background-color: darkcyan;
+    
+}
+
+a{
+    text-decoration: none;
+    color: aquamarine;
+    text-shadow: 2px 2px gainsbore ;
+    
+}
+#Movies{
+    text-shadow: 34px!;
+    text-decoration: underline !;
+    color: darkcyan 
+}
+
+#contacts{
+
+    background:purple;}
+
+.contacts1{
+    color: beige
+}
